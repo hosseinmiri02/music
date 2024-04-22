@@ -1,0 +1,23 @@
+{
+  "nav": {
+    "logo": "Music",
+    "about": "About",
+    "manage": "Manage",
+    "loginOrRegister": "Login/Register",
+    "logout": "Logout"
+  },
+  "home": {
+    "listen": "Listen to Great Music!",
+    "lorem": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus et dolor mollis, congue augue non, venenatis elit. Nunc justo eros, suscipit ac aliquet imperdiet, venenatis et sapien. Duis sed magna pulvinar, fringilla lorem eget, ullamcorper urna.",
+    "songs": "Songs"
+  },
+  "register": {
+    "accept": "I accept Music's {0}",
+    "tos": "Terms of Service"
+  },
+  "manage": {
+    "my_songs": "My Songs",
+    "upload": "Upload",
+    "drop_files": "Drop your files here"
+  }
+}
